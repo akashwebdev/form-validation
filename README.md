@@ -7,3 +7,6 @@ The plugin was developed as a customised solution to the form validation with UK
 
 ## Esay to use
 Just load the file and use to right away. No lenghty or complex installation, easy to use, deploy and maintain.
+
+## Development Status
+Code is ot managed currently, any bugs reporting and suggestions are most welcome.
